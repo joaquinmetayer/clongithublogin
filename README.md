@@ -1,6 +1,6 @@
-# Clon GitHub Login - UNOFFICIAL SITE
+# Clon GitHub Login
 
-Live view https://joaquinmetayer.github.io/clongithublogin/
+Live view https://jmclongithublogin.netlify.app/
 
 Original site:
 
